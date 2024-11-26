@@ -32,7 +32,9 @@ bash
 Copy code
 CLONE THIS REPOSITORY
 cd valley-school-management
+
 Step 2: Create MySQL Database
+
 Open MySQL Workbench or any SQL client.
 Run the following command to create the database:
 sql
@@ -54,7 +56,9 @@ Build the project to ensure all dependencies are downloaded.
 Run the application using the main class:
 Path: src/main/java/com/valleyschool/ValleySchoolApplication.java
 Right-click and select Run.
+
 Step 5: Access the Dashboards
+
 Admin Dashboard: http://localhost:8080/admin
 Student Dashboard: http://localhost:8080/student
 
