@@ -8,6 +8,6 @@ public class LinkdinController {
 
     @RequestMapping("/linkedin")
     public String redirectToLinkedInProfile() {
-        return "redirect:https://www.linkedin.com/in/sandeep-verma9045/";
+        return "redirect:https://www.linkedin.com/in/tanvi-kochhar-647914284/";
     }
 }
