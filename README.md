@@ -46,7 +46,9 @@ Update the src/main/resources/application.properties file with your MySQL creden
 properties
 
 spring.datasource.url=jdbc:mysql://localhost:3306/valleyschool
+
 spring.datasource.username=your username
+
 spring.datasource.password=your password
 
 Step 4: Run the Application
